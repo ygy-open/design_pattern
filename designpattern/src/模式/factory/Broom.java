@@ -6,6 +6,6 @@ package 模式.factory;
 public class Broom implements Product {
     @Override
     public void run() {
-        System.out.println("我是Broom....我要飞");
+        System.out.println("我是Broom....我要飞 飞飞飞");
     }
 }
