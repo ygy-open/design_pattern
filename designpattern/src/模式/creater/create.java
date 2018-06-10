@@ -5,6 +5,6 @@ package 模式.creater;
  */
 public class create {
     public static void main(String[] args) {
-        System.out.println();
+        System.out.println("咋了");
     }
 }
